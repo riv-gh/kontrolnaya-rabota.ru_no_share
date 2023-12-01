@@ -1,1 +1,1 @@
-javascript:(function(){var style_noBloor=document.createElement('style');style_noBloor.innerText="#steps_0>span{color:black!important;text-shadow:none!important} .krapi-blurred-title{display:none!important}";document.getElementsByTagName('head')[0].appendChild(style_noBloor);})()
+javascript:(function(){document.querySelector('.blurred-block').style.display='none';document.querySelector('.krapi-blurred-text').classList.remove('krapi-blurred-text');})()
