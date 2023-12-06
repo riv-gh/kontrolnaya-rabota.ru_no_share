@@ -3,3 +3,5 @@
 https://www.kontrolnaya-rabota.ru/s/equal-one/any-uravnenie/
 
 copy past to browser console when bloor
+
+копировать вставить, чтобы убрать размытие
